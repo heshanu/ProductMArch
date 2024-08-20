@@ -8,10 +8,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="apiGateWay" />
-        <module name="configServer" />
         <module name="service-discovery" />
-        <module name="orderService" />
+        <module name="configServer" />
         <module name="productService" />
+        <module name="orderService" />
       </profile>
     </annotationProcessing>
   </component>
